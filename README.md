@@ -4,4 +4,6 @@ Projeto do curso de HTML Web Developer(DIO) onde Recrie a interface do principal
 
 https://thialira.github.io/ProjetoNerdflix/
 
+https://projeto-nerdflix.vercel.app/
+
 🚀 Let's code! 🚀
